@@ -14,8 +14,22 @@ img {
 
 h1 {
   text-align: center;
+  font-size: 2rem;
 }
 
 ul {
   display: flex;
+  list-style-type: none;
+}
+
+h2, h3, p {
+  font-size: 1rem;
+}
+
+.quest {
+  background-color: #ccc;
+}
+
+a {
+  font-size: .875rem;
 }
