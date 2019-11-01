@@ -17,19 +17,29 @@ h1 {
   font-size: 2rem;
 }
 
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: .875rem;
+  font-style: italic;
+}
+
 ul {
   display: flex;
   list-style-type: none;
 }
 
-h2, h3, p {
+h3, p {
   font-size: 1rem;
-}
-
-.quest {
-  background-color: #ccc;
 }
 
 a {
   font-size: .875rem;
+  text-decoration: none;
+  color: #f2f2f2;
+  background-color: #333;
+  border-radius: 4px;
+  display: flex;
 }
