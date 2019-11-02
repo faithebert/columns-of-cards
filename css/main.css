@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 0 .75em;
 }
 
 img {
@@ -41,7 +41,6 @@ h2 {
 h3 {
   font-size: .875rem;
   font-style: italic;
-  font-weight: bold;
   margin: 0;
 }
 
