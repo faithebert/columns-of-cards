@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 0 .75em;
+  margin: 0 1.5rem;
 }
 
 img {
@@ -98,7 +98,7 @@ h2, p {
   border-radius: 7px;
   margin: .5rem;
   display: flex;
-  padding: .75rem;
+  padding: .5rem;
   flex-wrap: wrap;
   flex-grow: 1;
 }
