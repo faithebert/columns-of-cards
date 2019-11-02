@@ -7,12 +7,16 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+body {
+  margin: 0;
+}
 
 img {
   width: 25%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 
 .image {
