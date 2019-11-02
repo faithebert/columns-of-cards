@@ -90,3 +90,7 @@ a {
   display: flex;
   padding: .75rem;
 }
+
+a:hover {
+  background-color: #000;
+}
